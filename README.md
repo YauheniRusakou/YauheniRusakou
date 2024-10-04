@@ -20,7 +20,7 @@ I have been learning to code for over 5 years. I have been working as a design e
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer"><img src="http://rusakou.by/norma/ico/file-type-maven.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="http://rusakou.by/norma/ico/eclipse.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="http://rusakou.by/norma/ico/Android_Studio.svg" width="36" height="36" alt="Photoshop" /></a></p>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="http://rusakou.by/norma/ico/android-studio-icon.svg" width="36" height="36" alt="Photoshop" /></a></p>
 
 ### Socials
                   
