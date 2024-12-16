@@ -7,8 +7,8 @@ Java Developer
 I have been learning to code for over 6 years. I have been working as a design engineer for a long time and to simplify my work I wrote programs in Java. At first these were console programs, then window programs in Java Swing, later I switched to Android applications. This is very interesting, and I want to try working in serious projects.
 
 *   🌍  I'm based in Obninsk, Russian Federation
-*   🖥️  See my app at [Norma Android App](https://play.google.com/store/apps/details?id=by.rusakou.norma)
-*   ✉️  You can contact me at [ya.rusakou@gmail.com](mailto:ya.rusakou@gmail.com)
+*   🖥️  See my app at [Norma Android App](https://play.google.com/store/apps/details?id=by.rusakou.norma). How it works on [Youtube](https://www.youtube.com/watch?v=1p0XwUZhuk8)  
+*   ✉️  You can contact me at [e.m.rusakov@gmail.com](mailto:e.m.rusakov@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
